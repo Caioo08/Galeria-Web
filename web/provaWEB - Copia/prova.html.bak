@@ -1,0 +1,43 @@
+<!DOCTYPE HTML>
+<html lang="pt-br">
+<meta charset="UTF-8">
+<html><head> 
+		<title> Itens de tecnologia </title>
+	</head>
+	<body bgcolor="#DCDCDC"/>
+			<center>
+			
+			<Font size="6" color="#FF0000"> <h1> TECNOLOGIA </h1> </font> 
+			
+			<Font size="6" >
+			<p>A tecnologia é uma ferramenta e dispositivo que é criada para resolver um problema ou facilitar a vida de alguém, ela inclui desde objetivos simples, até os mais variados problemas. A tecnologia tem como principal objetivo a evolução da sociedade, e impulsionar o progresso, em áreas como a saúde, comunicação, transporte, energia e meio ambiente. Além disso essa área é uma das principais forças no quesito econômico, tanto gerando novos empregos, quanto o aumento das compras. Veja mais sobre <a href="pagina1.html">tecnologia</a>.</p></font>
+			
+			 
+			 <p> <table border="15"	>
+			<tr>
+			<td>  <a href="https://www.pichau.com.br/headset-gamer-mancer-twilight-rgb-drivers-50mm-preto-mcr-tlt-rgb02?gclid=EAIaIQobChMIr_nX0s2B_gIVNRfUAR1x6wkiEAQYAiABEgKOpfD_BwE"> <img src="fone.jpg" style="width:300px;height:300px;"> </a> </td>
+			<td>  <a href="https://www.casasbahia.com.br/pc-gamer-completo-intel-core-i7-16gb-geforce-gt-4gb-ssd-240gb-fonte-300w-gabinete-rgb-monitor-75hz-hdmi-195-quot-easypc-play/p/1546746723"> <img src="pc.jpg" style="width:300px;height:300px;"> </a> </td>
+			<td>  <a href="https://www.amazon.com.br/Notebook-Intel-256GB-FullHD-Windows/dp/B084TJQ1M8"> <img src="notebook.jpg" style="width:300px;height:300px;"> </a> </td>
+			</tr>
+			<tr>
+			<td>  <a href="https://www.extra.com.br/tablet-samsung-s6-lite-p619-com-caneta-s-pen-capa-protetora-tela-10-4-128gb-4g-wi-fi-camera-8mp-android-12-e-processador-octa-core-cinza-55051752/p/55051752?recSource=wnot_found&recType=lx_ultimos_vistos_relacionados_aos_seus_interesses"> <img src="tablet.jpg" style="width:300px;height:300px;"> </a> </td>
+			<td>  <a href="https://www.lojascertel.com.br/celular-samsung-galaxy-a13-128gb-tela-66-octacore-camera-multiplas-dual-chip-preto-302921/p"> <img src="celular.jpg" style="width:300px;height:300px;"> </a> </td>
+			<td>  <a href="https://www.amazon.com.br/Microsoft-Console-Xbox-Series-X/dp/B088GHBH92?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A3OZAEGH4OBX9C"> <img src="xbox.jpg" style="width:300px;height:300px;"> </a> </td>
+			</tr>
+			<tr>
+			<td>  <a href="https://www.kabum.com.br/produto/398025/console-sony-ps5-god-of-war-ragnarok-branco?srsltid=AfAwrE5XHU-rNQOOdhHxP2nZ4dTdo_QCSMfHo1vcbMZMLDDgQJhWXZ4IGPo"> <img src="ps5.jpg" style="width:300px;height:300px;"> </a> </td>
+			<td>  <a href="https://www.kabum.com.br/produto/108149/echo-dot-3-geracao-com-alexa-amazon-smart-speaker-preto"> <img src="alexa.jpg" style="width:300px;height:300px;"> </a> </td>
+			<td>  <a href="https://www.shopb.com.br/jogo-god-of-war-ragnarok-ps5"> <img src="gow.jpg" style="width:300px;height:300px;"> </a> </td>
+			</tr> </p>  
+			</table> <br> <br>
+			
+			
+			<Font size="6"> Esses itens são os principais no tema diversão e trabalho, atualmente os computadores se tornaram cada vez mais importantes em nossas vidas, os celulares também, contendo muitas vezes informações valiosas sendo indispensáveis, já os video games, se tornaram cada vez mais comuns, por serem itens para relaxar e até algo para se comunicar, tendo em vista que as pessoas pararam de sair, ficando cada vez mais em casa. </font>
+			
+			
+			</center>
+	
+	
+	</body>
+	
+</html>

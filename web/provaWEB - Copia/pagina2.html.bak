@@ -1,0 +1,143 @@
+<!DOCTYPE HTML>
+	<html lang="pt-br">
+		<meta charset="UTF-8">
+		<head>
+			<title> Jogos </title>
+		</head>	
+		<body bgcolor="#DCDCDC">
+			<a href="prova.html"> <font size="6"> &nbsp Voltar </font> </a>  
+			 <center>
+			<Font size="7" color="#FF0000"> Os jogos mais vendidos </font> <br> <br> <br>
+			<Font size="5"> <p> Os jogos digitais vem se tornando cada vez mais comuns, e melhorando a cada ano, e esses são os jogos mais vendidos desde 1980.</p> </font>  <br>
+				<table border="20">
+					<tr>
+						<td>Nome dos Jogos</td>
+						<td>Vendas em milhões</td>
+						<td>Ano de lançamento</td>
+					</tr>
+					<tr>
+						<td>Tetris</td>
+						<td>520</td>
+						<td>1984</td>		
+					</tr>
+					<tr>
+						<td>Minecraft</td>
+						<td>238</td>
+						<td>2009</td>
+					</tr>
+					<tr>
+						<td>GTA V</td>
+						<td>170</td>
+						<td>2013</td>
+					</tr>
+					<tr>
+						<td>Wii Sports</td>
+						<td>82,88</td>
+						<td>2009</td>
+					</tr>
+					<tr>
+						<td>PUBG</td>
+						<td>70</td>
+						<td>2017</td>
+					</tr>
+					<tr>
+						<td>Mario Kart 8 / Deluxe</td>
+						<td>56,87</td>
+						<td>2017</td>
+					</tr>
+					<tr>
+						<td>Overwatch</td>
+						<td>50</td>
+						<td>2016</td>
+					</tr>
+					<tr>
+						<td>Super Mario Bros</td>
+						<td>48</td>
+						<td>1985</td>
+					</tr>
+					<tr>
+						<td>Pokémon Red/Green/Blue/Yellow</td>
+						<td>47,52</td>
+						<td>1996</td>
+					</tr>
+					<tr>
+						<td>Red Dead Redemption 2</td>
+						<td>46</td>
+						<td>2018</td>
+					</tr>
+					<tr>
+						<td>Counter Strike: Global Offensive</td>
+						<td>46,31</td>
+						<td>2012</td>
+					</tr>
+					<tr>
+						<td>Terraria</td>
+						<td>44,5</td>
+						<td>2014</td>
+					</tr>
+					<tr>
+						<td>Wii Fit/Plus </td>
+						<td>43,8</td>
+						<td>2009</td>
+					</tr>
+					<tr>
+						<td>Pac-Man</td>
+						<td>42,07</td>
+						<td>1980</td>
+					</tr>
+					<tr>
+						<td>Animal Crossing: New Horizons</td>
+						<td>40,17</td>
+						<td>2020</td>
+					</tr>
+					<tr>
+						<td>The Witcher 3: Wild Hunt</td>
+						<td>40</td>
+						<td>2015</td>
+					</tr>
+					<tr>
+						<td>Mario Kart Wii</td>
+						<td>37,38</td>
+						<td>2008</td>
+					</tr>
+					<tr>
+						<td>Wii Sports Resort</td>
+						<td>33,14</td>
+						<td>2009</td>
+					</tr>
+					<tr>
+						<td>New Super Mario Bros.</td>
+						<td>30,79</td>
+						<td>2006</td>
+					</tr>
+					<tr>
+						<td>New Super Mario Bros Wii</td>
+						<td>30,28</td>
+						<td>2009</td>
+					</tr>
+					<tr>
+						<td>Call of Duty Modern Warfare (2019)</td>
+						<td>30</td>
+						<td>2019</td>
+					</tr>
+					
+				</table>
+			</center>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	</html>

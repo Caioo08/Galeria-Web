@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="PT-BR">
+<head>
+<title>CSS Template</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Style the header */
+header {
+  background-color: #000000;
+  padding: 20px;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+}
+
+/* Create two columns/boxes that floats next to each other */
+nav {
+  float: left;
+  width: 20%;
+  height: 400px; /* only for demonstration, should be removed */
+  background: #4F4F4F;
+  padding: 20px;
+}
+
+/* Style the list inside the menu */
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+article {
+  float: left;
+  padding: 20px;
+  width: 80%;
+  background-color: #808080;
+  height: 400px; /* only for demonstration, should be removed */
+  font-size: 25px;
+  color: #f1f1f1;
+}
+
+/* Clear floats after the columns */
+section::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Style the footer */
+footer {
+  background-color: #000000;
+  padding: 10px;
+  text-align: center;
+  color: white;
+  font-size: 30px;
+}
+footer img{
+  width: 20px;
+  height: 20px;
+}
+/* Responsive layout - makes the two columns/boxes stack on top of each other instead of next to each other, on small screens */
+@media (max-width: 600px) {
+  nav, article {
+    width: 100%;
+    height: auto;
+  }
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 400px;
+  background-color: #4F4F4F;
+}
+
+li a {
+  display: block;
+  color: #000;
+  padding: 15px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  }
+
+/* Change the link color on hover */
+li a:hover {
+  background-color: #4F4F4F;
+  color: white;
+}
+
+
+</style>
+</head>
+<body>
+
+<header>
+  <h2>Meus Sites</h2>
+</header>
+
+<section>
+  <nav>
+    <ul>
+      <li><a href="prova.html">Página Principal</a></li>
+      <li><a href="pagina1.html">Página 1</a></li>
+      <li><a href="pagina2.html">Página 2</a></li>
+      
+    </ul>
+  </nav>
+  
+  <article>
+    <h1>Meu nome é Caio</h1>
+    <p>Sou estudante do primeiro ano de Desenvolvimento de Sistemas, da ETEC Jaú</p>
+    <p>Esse site foi desenvolvido utilizando HTML e CSS, durante as aulas de Programação Web 1</p>
+  </article>
+</section>
+
+<footer>
+  <p><img src="copy.png"> Por Caio</p>
+</footer>
+
+</body>
+</html>
